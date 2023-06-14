@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: 'o-id',
 
   // basic site info (required)
-  name: 'o-id',
-  domain: 'o-id.cc',
-  author: 'o-id',
+  name: 'hong',
+  domain: 'hong02.vercel.app',
+  author: 'hong',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
