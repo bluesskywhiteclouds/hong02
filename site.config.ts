@@ -6,20 +6,20 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'o-id',
+  rootNotionSpaceId: 'hong',
 
   // basic site info (required)
-  name: 'o-id',
-  domain: 'o-id.cc',
-  author: 'o-id',
+  name: 'hong',
+  domain: 'sunnyhong.top',
+  author: 'hong',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'chusight1',
-  github: 'chusight',
-  zhihu: 'chusight',
+  // twitter: 'chusight1',
+  github: 'bluesskywhiteclouds',
+  // zhihu: 'chusight',
   // linkedin: '',
   // instagram: 'onet2lee',
 
@@ -53,12 +53,12 @@ export default siteConfig({
      navigationStyle: 'custom',
      navigationLinks: [
        {
-         title: 'About',
-         pageId: '2c53271e47464ca59f021907db220508'
+         title: 'Resume',
+         pageId: '487a902ca2044b47b2467917b1589296'
        },
        {
-         title: 'Contact',
-         pageId: 'b8b7971e749b41f487a1d00c40eb7a0d'
+         title: 'Article',
+         pageId: '40c7c98609354a95bd6a020778e36507'
        }
      ]
 })
