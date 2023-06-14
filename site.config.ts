@@ -54,11 +54,11 @@ export default siteConfig({
      navigationLinks: [
        {
          title: 'Resume',
-         pageId: '487a902ca2044b47b2467917b1589296'
+         pageId: '487a902ca2044b47b2467917b1589296?pvs=4'
        },
        {
          title: 'Article',
-         pageId: '40c7c98609354a95bd6a020778e36507'
+         pageId: '2b0cd479d5e948dc9f9530ab0b3e5ffb?v=40c7c98609354a95bd6a020778e36507'
        }
      ]
 })
