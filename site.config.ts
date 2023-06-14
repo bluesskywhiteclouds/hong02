@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'hong',
-  domain: 'sunnyhong.top',
+  domain: 'hong02-git-main-bluesskywhiteclouds.vercel.app',
   author: 'hong',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  // twitter: 'chusight1',
+  twitter: 'chusight1',
   github: 'bluesskywhiteclouds',
-  // zhihu: 'chusight',
+  zhihu: 'chusight',
   // linkedin: '',
   // instagram: 'onet2lee',
 
