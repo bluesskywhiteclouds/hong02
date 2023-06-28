@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'hong',
-  domain: 'hong02.vercel.app',
+  domain: 'sunnyhong.top',
   author: 'hong',
 
   // open graph metadata (optional)
